@@ -1,0 +1,29 @@
+_repo: The-American-Revolution-and-the-Boer-War-An-Open-Letter-to-Mr.-Charles-Francis-Adams-on-His-P__19895
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fisher, Sydney George
+    birthdate: 1856
+    deathdate: 1927
+    gutenberg_agent_id: '1102'
+    url: http://www.gutenberg.org/2009/agents/1102
+description: ''
+gutenberg_bookshelf: Boer War
+gutenberg_issued: '2006-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19895'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'South African War, 1899-1902'
+- !lcsh 'Adams, Charles Francis, 1835-1915. Confederacy and the Transvaal'
+title: The American Revolution and the Boer War, An Open Letter to Mr. Charles Francis
+  Adams on His Pamphlet "The Confederacy and the Transvaal"
+url: http://www.gutenberg.org/ebooks/19895
